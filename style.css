@@ -1,10 +1,28 @@
-#div1 {
+
+body {
+    background-color: rgb(208, 240, 236);
+}
+
+
+div1 {
     word-spacing: 35px;
 }
 
 .div2 {
-    background-image: url();
+    position: ;
+    background-image: url(./Images/WhatsApp\ Image\ 2025-05-12\ at\ 18.36.33_8bffa74e.jpg);
     height: 400px;
     width: 1500px;
+
+}
+div22{
+    background-color: beige;
+    top: 100px;
+    height: 1000px;
+    width: 500px;
+}
+
+div-last {
+    background-image: url();
 
 }

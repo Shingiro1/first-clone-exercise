@@ -4,5 +4,60 @@
     word-spacing: 15px;
 
 }
-
-
+.img1 {
+    height: 500px;
+    width: 100%;
+}
+#shift {
+    position: relative;
+    bottom: 290px;
+    color: white;
+    left: 200px;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.img2 {
+    position: relative;
+    width: 1250px;
+}
+#text1 {
+    float: right;
+    position: relative;
+    bottom: 17px;
+    right: 65px;
+}
+.but2 {
+    padding-right: 170px;
+    padding-top: 10px;
+    border-radius: 10px;
+}
+.but1 {
+    padding: 15px;
+    border-radius: 30px;
+    position: relative;
+    bottom: 10px;
+    background-color: blue;
+    color: white;
+}
+.sect2 {
+    border: 1px solid;
+    padding: 5px;
+    padding-top: 10px;
+    width: 88%;
+    border-radius: 10px;
+    background-color: white;
+    position: relative;
+    bottom: 600px;
+}
+.but3 {
+    width: 40px;
+    border-radius: 50%;
+}
+#text2 {
+    position: relative;
+    left: 70px;
+    bottom: 73px;
+}
+.sect3 {
+    border: ;
+}
